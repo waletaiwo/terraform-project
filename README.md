@@ -6,8 +6,8 @@ Infrastructure as a code improves the software development life cycle by ensurin
 
 
 ## Usage
-### 1. comment the code in main.tf file.
-### 2. add your aws credentials to the main.tf files under the provider section.
+### 1. Uncomment the code in main.tf file.
+### 2. Add your AWS Credentials to the main.tf files under the provider section.
 ### 3. Run the following commands below in your command line interface.
 
 
